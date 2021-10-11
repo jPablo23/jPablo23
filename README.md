@@ -6,9 +6,7 @@
 - :speech_balloon: &nbsp;I like to talk about **Economy**, **Geopolitics** and **Spirituality**
 <br>
 
-
 #### 🧡 &nbsp;&nbsp;My passions
-
 * Technology and software
 * Science
 * Spirituality 
@@ -16,12 +14,20 @@
 * Meditation ([instagram](https://www.instagram.com/p/CTKhr8mrQW-/))
 * Nature
 <br>
-#### 📈 &nbsp;&nbsp; What I do?
+
+#### 📈 &nbsp;&nbsp;What I do?
 <br>
 I create and / or improve software products as well as offer IT services
-
 <br>
-💼 Any freelance work or know more of my? visit my ([web site](https://www.sofroscorp.com/))  
+
+- :computer: Any freelance work or know more of my? visit my ([Web Site](https://www.sofroscorp.com/)) 
+- :eyes: Do you just want to know me a little more? Follow me on my social networks 
+<p align="left">
+  <a href="https://www.facebook.com/kane.rodriguez.75"><img alt="Facebook" height="32" width="32" src="icons/facebook.svg"><a>
+  <a href="https://twitter.com/JP_Kane23"><img alt="Twitter" height="32" width="32" src="icons/twitter.svg"></a>
+  <a href="https://www.linkedin.com/in/juan-pablo-rodr%C3%ADguez-mendoza-6aab5a97?trk=nav_responsive_tab_profile"><img alt="Linkedin" height="32" width="32" src="icons/linkedin.svg"></a>
+
+</p>
 
 📊 **Proficiency**
 <!--START_SECTION:waka-->
