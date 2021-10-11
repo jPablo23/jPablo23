@@ -20,7 +20,7 @@
 I create and / or improve software products as well as offer IT services
 <br>
 
-- :computer: Any freelance work or know more of my? visit my ([Web Site](https://www.sofroscorp.com/)) 
+- :computer: Any freelance work or know more of my? visit my [Web Site](https://www.sofroscorp.com/) 
 - :eyes: Do you just want to know me a little more? Follow me on my social networks 
 <p align="left">
   <a href="https://www.facebook.com/kane.rodriguez.75"><img alt="Facebook" height="32" width="32" src="icons/facebook.svg"><a>
